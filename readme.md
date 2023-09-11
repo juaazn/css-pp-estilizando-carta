@@ -44,7 +44,7 @@ En el siguiente ejercicio, tendrás que realizar una carta aplicando las reglas 
 
 ## Iteraciones ##
 
-1. Aplica la familia de tipografía
+1. Aplica la familia de tipografía.
 
 2. Cursivas, grueso de letra, tamaño...
 
