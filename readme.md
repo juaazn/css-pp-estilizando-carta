@@ -26,9 +26,9 @@ En el siguiente ejercicio, tendrás que realizar una carta aplicando las reglas 
 
 - [x] [Line-height](https://www.w3schools.com/cssref/pr_dim_line-height.asp)
 
-- [] [Quotes](https://www.w3schools.com/cssref/pr_gen_quotes.asp)
+- [ ] [Quotes](https://www.w3schools.com/cssref/pr_gen_quotes.asp)
 
-- [] [Hyphens](https://www.w3schools.com/cssref/css3_pr_hyphens.asp)
+- [ ] [Hyphens](https://www.w3schools.com/cssref/css3_pr_hyphens.asp)
 
 - [x] [Text-decoration](https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
